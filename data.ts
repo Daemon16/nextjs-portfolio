@@ -82,4 +82,14 @@ export const projects: IProject[] = [
     category: ['react', 'nextjs'],
     key_techs: ['React', 'Next.JS', 'TailwindCSS'],
   },
+  {
+    id: 3,
+    name: 'React todo list',
+    description: 'A basic todo list using React.JS and TailwindCSS',
+    image_path: '/images/todo.png',
+    deployed_url: 'https://github.com/Daemon16/todo-list',
+    github_url: 'https://todo-list-seven-rho.vercel.app/',
+    category: ['react', 'nextjs'],
+    key_techs: ['React', 'TailwindCSS'],
+  },
 ]

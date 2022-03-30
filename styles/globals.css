@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* TODO use tailwind */
+body {
+  background-color: black;
+  font-family: 'Actor';
+  color: #354358;
+}
+
+::-webkit-scrollbar-thumb {
+  background-image: linear-gradient(to right bottom, #06beb6, #48b1bf);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 0;
+}

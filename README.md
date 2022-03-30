@@ -1,1 +1,1 @@
-# nextjs-portfolio
+# Next.js + Tailwind CSS Portfolio

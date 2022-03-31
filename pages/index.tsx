@@ -19,7 +19,7 @@ const index = () => {
       </Head>
       <h5 className="my-3 font-medium">
         Diogo is an enthusiastic developer with a passion for working on
-        full-stack .NET and React applications. He's addicted to writing
+        full-stack Next.JS and React applications. He's addicted to writing
         scalable and clean code for demanding software solutions. Naturally
         curious, he continuously learns new technologies to improve his
         efficiency and code resiliency. Being an open-minded, analytical
